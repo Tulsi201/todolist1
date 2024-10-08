@@ -1,0 +1,27 @@
+.container{
+    /* background-image: url("https://images.pexels.com/photos/6373354/pexels-photo-6373354.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"); */
+    background-image: url("https://pics.craiyon.com/2023-11-06/a81ecb3de21b4d11a6a50192219f3f45.webp ");
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: aliceblue;
+    height: 400px;
+    width: 400px;
+    margin: 0 auto;
+}
+
+h1{
+    text-align: center;
+    color: white;
+
+}
+
+.button{
+    height: 150px;
+    width: 125px;
+    color: black;
+    margin: 20px;
+    border-radius: 20px;
+    font-size: 25px;
+    text-align: center;
+    line-height: 50px;
+}
